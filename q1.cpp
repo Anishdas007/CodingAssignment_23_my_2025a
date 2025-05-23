@@ -1,3 +1,7 @@
+
+/*Two Sum II - Input array is sorted
+Given a sorted array of integers, return the indices of the two numbers such that they add up to a specific target.*/
+
 #include<bits/stdc++.h>
 #include <iostream>
 using namespace std;
